@@ -21,7 +21,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCopyright("Copyright © <github.com/trondr> 2013")]
 [assembly: CLSCompliant(true)]
 [assembly: AssemblyInformationalVersion("1.0.13176.5df6aac")]
-[assembly: AssemblyVersion("1.0.13176.19")]
-[assembly: AssemblyFileVersion("1.0.13176.19")]
+[assembly: AssemblyVersion("1.1.0")]
+[assembly: AssemblyFileVersion("1.1.0")]
 
 
